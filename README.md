@@ -11,3 +11,4 @@ Collection of bash scripts for system monitoring and security.
 ```bash
 chmod +x system_monitor.sh
 ./system_monitor.sh
+```
